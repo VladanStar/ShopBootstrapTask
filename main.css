@@ -36,8 +36,9 @@ topbar
 navbar
 ***************** */
 .navbar-brand img {
-width: 80px;
+width: 70px;
 }
 nav {
     border-bottom: 5px solid var(--accents);
 }
+
