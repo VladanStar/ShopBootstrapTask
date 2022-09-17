@@ -35,3 +35,6 @@ topbar
 /* ******************
 navbar
 ***************** */
+.navbar-band img {
+width: 80px;
+}
