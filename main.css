@@ -41,4 +41,12 @@ width: 70px;
 nav {
     border-bottom: 5px solid var(--accents);
 }
-
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 2rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    color:#fff;
+    text-align: center;
+}
