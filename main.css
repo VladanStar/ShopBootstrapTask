@@ -1,5 +1,30 @@
 :root {
-    -primary:#2080be;
-    -secondary: #ef7e22;
-    -accents:#bad232;
+    --primary:#2080be;
+    --secondary: #ef7e22;
+    --accents:#bad232;
+    --text:#333333;
+    --white: #white;
+    --gray:gray;
+    --font:16px;
+    --transition: .3s linear;
+}
+/* ******************
+basic styles
+***************** */
+body {
+    font-size:var(--font);
+    color:var(--text);
+
+}
+/* ******************
+topbar
+***************** */
+.topbar {
+    font-size: 0.9rem;
+}
+.topbar a {
+    color:var(--accents);
+}
+.top a:hover {
+    color: var(--primary);
 }
