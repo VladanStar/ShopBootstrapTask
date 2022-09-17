@@ -20,6 +20,11 @@ a {
     transition: var(--transition);
     text-decoration: none;
 }
+.button {
+    background: var(--accents);
+    padding: 10px 30px;
+    text:
+}
 /* ******************
 topbar
 ***************** */
@@ -52,4 +57,11 @@ slider
     padding-top: 1.25rem;
     color:#fff;
     text-align: center;
+}
+.carousel-item h2 span {
+    color:var(--accents);
+}
+.carousel-item h2 {
+    line-height: 1;
+
 }
