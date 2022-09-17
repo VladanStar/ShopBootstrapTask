@@ -23,7 +23,10 @@ a {
 .button {
     background: var(--accents);
     padding: 10px 30px;
-    text:
+    border-radius:15px;
+    color: var(--text);
+    margin-top: 22px;
+    display: inline-block;
 }
 /* ******************
 topbar
