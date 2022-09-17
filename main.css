@@ -16,6 +16,10 @@ body {
     color:var(--text);
 
 }
+a {
+    transition: var(--transition);
+    text-decoration: none;
+}
 /* ******************
 topbar
 ***************** */
