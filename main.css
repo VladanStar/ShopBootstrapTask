@@ -35,6 +35,9 @@ topbar
 /* ******************
 navbar
 ***************** */
-.navbar-band img {
+.navbar-brand img {
 width: 80px;
+}
+nav {
+    border-bottom: 5px solid var(--accents);
 }
