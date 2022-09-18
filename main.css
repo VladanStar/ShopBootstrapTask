@@ -115,6 +115,13 @@ DiscoverOFF
     background-position: top;
     background-size: cover;
 }
+/* ******************
+Footer
+***************** */
+ #white, 
+#whiteP {
+    color: white;
+} 
 
 /* ******************
 RESPONSIVE
