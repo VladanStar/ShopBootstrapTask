@@ -72,3 +72,15 @@ slider
     line-height: 1;
 
 }
+/* ******************
+RESPONSIVE
+***************** */
+@media (max-width:768px) {
+    .topbar {
+        display: none;
+    }
+    .products .colm-md-4 {
+        margin-bottom: 25px;
+
+    }
+}
