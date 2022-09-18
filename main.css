@@ -97,6 +97,7 @@ ABOUT
 .about i {
     color: var(--accents);
     text-shadow: 0 0 1px var(--text);
+    font-size: 2rem;
 }
 
 /* ******************
