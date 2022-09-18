@@ -79,9 +79,12 @@ products
     color: var(--accents);
 } */
 
-.product .price .card-title + {
+.products .price .card-title + {
     color:#2080be
 }
+.products img:hover {
+    transform: scale(1.1) rotate(2deg);
+} 
 /* ******************
 RESPONSIVE
 ***************** */
