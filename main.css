@@ -75,8 +75,12 @@ slider
 /* ******************
 products
 ***************** */
-.products .price p:last-child {
+/* .products .price .card-title + "h5" {
     color: var(--accents);
+} */
+
+.product .price .card-title + {
+    color:#2080be
 }
 /* ******************
 RESPONSIVE
