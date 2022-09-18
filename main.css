@@ -73,6 +73,12 @@ slider
 
 }
 /* ******************
+products
+***************** */
+.products .price p:last-child {
+    color: var(--accents);
+}
+/* ******************
 RESPONSIVE
 ***************** */
 @media (max-width:768px) {
