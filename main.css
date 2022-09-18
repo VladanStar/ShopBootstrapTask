@@ -106,6 +106,13 @@ ABOUT
     background-color: var(--text);
     color: var(--white);
 }
+/* ******************
+DiscoverOFF
+***************** */
+.discoverOff {
+    background-image: url(img/shop.jpg);
+    
+}
 
 /* ******************
 RESPONSIVE
