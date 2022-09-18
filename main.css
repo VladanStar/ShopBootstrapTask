@@ -99,6 +99,13 @@ ABOUT
     text-shadow: 0 0 1px var(--text);
     font-size: 2rem;
 }
+.about .border-dark {
+    transition: var(--transition);
+}
+.about .border-dark:hover {
+    background-color: var(--text);
+    color: var(--white);
+}
 
 /* ******************
 RESPONSIVE
