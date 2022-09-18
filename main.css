@@ -112,7 +112,7 @@ DiscoverOFF
 .discoverOff {
     background-image: url(img/shop.jpg);
     height: 60vh;
-    background-position: center;
+    background-position: top;
     background-size: cover;
 }
 
