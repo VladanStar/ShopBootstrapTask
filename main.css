@@ -92,6 +92,14 @@ products
     transform: scale(1.1) rotate(2deg);
 } 
 /* ******************
+ABOUT
+***************** */
+.about i {
+    color: var(--accents);
+    text-shadow: 0 0 1px var(--text);
+}
+
+/* ******************
 RESPONSIVE
 ***************** */
 @media (max-width:768px) {
